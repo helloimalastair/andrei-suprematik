@@ -1,0 +1,3 @@
+interface Environment {
+	DurableAdd: DurableObjectNamespace; 
+}
